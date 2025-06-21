@@ -1,4 +1,5 @@
 langchain
+langchain-huggingface
 unstructured
 libmagic
 python-magic
