@@ -1,0 +1,7 @@
+langchain
+unstructured
+libmagic
+python-magic
+python-magic-bin
+faiss-cpu
+sentence-transformers
